@@ -141,25 +141,25 @@
       },
       "lastSubmissionRef": "leetcode:2179739932"
     },
-    "leetcode:283": {
-      "problemKey": "leetcode:283",
+    "leetcode:383": {
+      "problemKey": "leetcode:383",
       "platform": "leetcode",
-      "externalId": "283",
-      "title": "Move Zeroes",
-      "slug": "move-zeroes",
+      "externalId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
       "difficulty": "Easy",
-      "primaryTopicPath": "array",
+      "primaryTopicPath": "hash-table",
       "files": [
-        "topics/array/move-zeroes/solution.java",
-        "topics/array/move-zeroes/README.md"
+        "topics/hash-table/ransom-note/solution.java",
+        "topics/hash-table/ransom-note/README.md"
       ],
-      "submissionRef": "leetcode:2062833806",
-      "updatedAt": "2026-11-11T12:41:00.590Z",
+      "submissionRef": "leetcode:1808301476",
+      "updatedAt": "2026-11-11T12:41:07.454Z",
       "fileShas": {
-        "topics/array/move-zeroes/solution.java": "44cad92284c2b965ba69d79dbcc837d446ef4a82",
-        "topics/array/move-zeroes/README.md": "56aa33cfa0bd19a93a86dbbfeeb88e2b8aa2efcc"
+        "topics/hash-table/ransom-note/solution.java": "6452b02b0e0ad71f8ded4779b22ed18a9eadc222",
+        "topics/hash-table/ransom-note/README.md": "bc83b3e58d15f06bd88f4cf5900042fcc6f774e1"
       },
-      "lastSubmissionRef": "leetcode:2062833806"
+      "lastSubmissionRef": "leetcode:1808301476"
     }
   },
   "topics": {}
