@@ -100,6 +100,26 @@
         "topics/array/single-element-in-a-sorted-array/README.md": "290912a6cea421674f8c815348a3d957bca70db3"
       },
       "lastSubmissionRef": "leetcode:2179804981"
+    },
+    "leetcode:1444": {
+      "problemKey": "leetcode:1444",
+      "platform": "leetcode",
+      "externalId": "1444",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "primaryTopicPath": "math",
+      "files": [
+        "topics/math/number-of-steps-to-reduce-a-number-to-zero/solution.java",
+        "topics/math/number-of-steps-to-reduce-a-number-to-zero/README.md"
+      ],
+      "submissionRef": "leetcode:1808267261",
+      "updatedAt": "2026-11-11T12:33:08.274Z",
+      "fileShas": {
+        "topics/math/number-of-steps-to-reduce-a-number-to-zero/solution.java": "61a5d2ac887446727bf8083f27ab1a2bf9e1ca43",
+        "topics/math/number-of-steps-to-reduce-a-number-to-zero/README.md": "cc1b042c099bd79fa1cb9e0c510f89958f9a52f6"
+      },
+      "lastSubmissionRef": "leetcode:1808267261"
     }
   },
   "topics": {}
