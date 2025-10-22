@@ -161,25 +161,25 @@
       },
       "lastSubmissionRef": "leetcode:2178874478"
     },
-    "leetcode:852": {
-      "problemKey": "leetcode:852",
+    "leetcode:1342": {
+      "problemKey": "leetcode:1342",
       "platform": "leetcode",
-      "externalId": "852",
-      "title": "Peak Index in a Mountain Array",
-      "slug": "peak-index-in-a-mountain-array",
-      "difficulty": "Medium",
-      "primaryTopicPath": "array",
+      "externalId": "1342",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "primaryTopicPath": "math",
       "files": [
-        "topics/array/peak-index-in-a-mountain-array/solution.java",
-        "topics/array/peak-index-in-a-mountain-array/README.md"
+        "topics/math/number-of-steps-to-reduce-a-number-to-zero/solution.java",
+        "topics/math/number-of-steps-to-reduce-a-number-to-zero/README.md"
       ],
-      "submissionRef": "leetcode:2179021721",
-      "updatedAt": "2026-11-11T12:41:28.162Z",
+      "submissionRef": "leetcode:1808267261",
+      "updatedAt": "2026-11-11T12:41:38.808Z",
       "fileShas": {
-        "topics/array/peak-index-in-a-mountain-array/solution.java": "01794eb00b70f9a2fb97ec7772cf3e39ccf11f45",
-        "topics/array/peak-index-in-a-mountain-array/README.md": "daf9fda1b9120c9f8ce1bcfa50ef8f3ae9220aa5"
+        "topics/math/number-of-steps-to-reduce-a-number-to-zero/solution.java": "61a5d2ac887446727bf8083f27ab1a2bf9e1ca43",
+        "topics/math/number-of-steps-to-reduce-a-number-to-zero/README.md": "7d44bda5cec61444982344e5e0defc259d1a29fd"
       },
-      "lastSubmissionRef": "leetcode:2179021721"
+      "lastSubmissionRef": "leetcode:1808267261"
     }
   },
   "topics": {}
