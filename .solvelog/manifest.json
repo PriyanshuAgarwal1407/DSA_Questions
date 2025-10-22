@@ -21,25 +21,25 @@
       },
       "lastSubmissionRef": "leetcode:1808249673"
     },
-    "leetcode:1444": {
-      "problemKey": "leetcode:1444",
+    "leetcode:383": {
+      "problemKey": "leetcode:383",
       "platform": "leetcode",
-      "externalId": "1444",
-      "title": "Number of Steps to Reduce a Number to Zero",
-      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "externalId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
       "difficulty": "Easy",
-      "primaryTopicPath": "math",
+      "primaryTopicPath": "hash-table",
       "files": [
-        "topics/math/number-of-steps-to-reduce-a-number-to-zero/solution.java",
-        "topics/math/number-of-steps-to-reduce-a-number-to-zero/README.md"
+        "topics/hash-table/ransom-note/solution.java",
+        "topics/hash-table/ransom-note/README.md"
       ],
-      "submissionRef": "leetcode:1808267261",
-      "updatedAt": "2026-11-11T12:20:51.259Z",
+      "submissionRef": "leetcode:1808301476",
+      "updatedAt": "2026-11-11T12:20:57.276Z",
       "fileShas": {
-        "topics/math/number-of-steps-to-reduce-a-number-to-zero/solution.java": "61a5d2ac887446727bf8083f27ab1a2bf9e1ca43",
-        "topics/math/number-of-steps-to-reduce-a-number-to-zero/README.md": "4e2b9be7ef5cc4384d6babe4c9186b0edee799a2"
+        "topics/hash-table/ransom-note/solution.java": "6452b02b0e0ad71f8ded4779b22ed18a9eadc222",
+        "topics/hash-table/ransom-note/README.md": "7751edf169ba26d932a9112cf5f33c18d5f71736"
       },
-      "lastSubmissionRef": "leetcode:1808267261"
+      "lastSubmissionRef": "leetcode:1808301476"
     }
   },
   "topics": {}
