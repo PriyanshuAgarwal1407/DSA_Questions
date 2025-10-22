@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "problems": {
+    "leetcode:412": {
+      "problemKey": "leetcode:412",
+      "platform": "leetcode",
+      "externalId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "difficulty": "Easy",
+      "primaryTopicPath": "math",
+      "files": [
+        "topics/math/fizz-buzz/solution.java",
+        "topics/math/fizz-buzz/README.md"
+      ],
+      "submissionRef": "leetcode:1808249673",
+      "updatedAt": "2026-11-11T12:20:44.366Z",
+      "fileShas": {
+        "topics/math/fizz-buzz/solution.java": "a080e83de82a4c620359047e1a6de241ebd3d8af",
+        "topics/math/fizz-buzz/README.md": "5fcb4390904cb3867b4d2c9e0efd68f57cab5765"
+      },
+      "lastSubmissionRef": "leetcode:1808249673"
+    }
+  },
+  "topics": {}
+}
