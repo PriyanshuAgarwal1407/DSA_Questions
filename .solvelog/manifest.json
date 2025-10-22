@@ -20,6 +20,26 @@
         "topics/math/fizz-buzz/README.md": "5fcb4390904cb3867b4d2c9e0efd68f57cab5765"
       },
       "lastSubmissionRef": "leetcode:1808249673"
+    },
+    "leetcode:1444": {
+      "problemKey": "leetcode:1444",
+      "platform": "leetcode",
+      "externalId": "1444",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "primaryTopicPath": "math",
+      "files": [
+        "topics/math/number-of-steps-to-reduce-a-number-to-zero/solution.java",
+        "topics/math/number-of-steps-to-reduce-a-number-to-zero/README.md"
+      ],
+      "submissionRef": "leetcode:1808267261",
+      "updatedAt": "2026-11-11T12:20:51.259Z",
+      "fileShas": {
+        "topics/math/number-of-steps-to-reduce-a-number-to-zero/solution.java": "61a5d2ac887446727bf8083f27ab1a2bf9e1ca43",
+        "topics/math/number-of-steps-to-reduce-a-number-to-zero/README.md": "4e2b9be7ef5cc4384d6babe4c9186b0edee799a2"
+      },
+      "lastSubmissionRef": "leetcode:1808267261"
     }
   },
   "topics": {}
