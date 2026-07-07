@@ -141,25 +141,25 @@
       },
       "lastSubmissionRef": "leetcode:2179739932"
     },
-    "leetcode:34": {
-      "problemKey": "leetcode:34",
+    "leetcode:189": {
+      "problemKey": "leetcode:189",
       "platform": "leetcode",
-      "externalId": "34",
-      "title": "Find First and Last Position of Element in Sorted Array",
-      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "externalId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
       "difficulty": "Medium",
       "primaryTopicPath": "array",
       "files": [
-        "topics/array/find-first-and-last-position-of-element-in-sorted-array/solution.java",
-        "topics/array/find-first-and-last-position-of-element-in-sorted-array/README.md"
+        "topics/array/rotate-array/solution.java",
+        "topics/array/rotate-array/README.md"
       ],
-      "submissionRef": "leetcode:2178892496",
-      "updatedAt": "2026-11-11T12:40:36.186Z",
+      "submissionRef": "leetcode:2059661973",
+      "updatedAt": "2026-11-11T12:40:46.495Z",
       "fileShas": {
-        "topics/array/find-first-and-last-position-of-element-in-sorted-array/solution.java": "9be6d7ba70168ceaafa360cb614de701fe310b11",
-        "topics/array/find-first-and-last-position-of-element-in-sorted-array/README.md": "96635f689249d2bbfb6239424ee20acc34c56bca"
+        "topics/array/rotate-array/solution.java": "6005f085b94e000e4c8b213831a5953a22064147",
+        "topics/array/rotate-array/README.md": "0a9e4f37e57655e48d6cae28f7b9a3205470d930"
       },
-      "lastSubmissionRef": "leetcode:2178892496"
+      "lastSubmissionRef": "leetcode:2059661973"
     }
   },
   "topics": {}
