@@ -1,18 +1,60 @@
-# [Rotate Array](https://leetcode.com/problems/rotate-array/)
+<h2><a href="https://leetcode.com/problems/rotate-array/">189. Rotate Array</a></h2>
+<h3>Medium</h3>
+<hr>
+<p>Given an integer array <code>nums</code>, rotate the array to the right by <code>k</code> steps, where <code>k</code> is non-negative.</p>
 
-> Auto-synced by [SolveLog](https://github.com/savinyu/SolveLog) · LeetHub-style solution archive
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-## Problem
+<pre>
+<strong>Input:</strong> nums = [1,2,3,4,5,6,7], k = 3
+<strong>Output:</strong> [5,6,7,1,2,3,4]
+<strong>Explanation:</strong>
+rotate 1 steps to the right: [7,1,2,3,4,5,6]
+rotate 2 steps to the right: [6,7,1,2,3,4,5]
+rotate 3 steps to the right: [5,6,7,1,2,3,4]
+</pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [-1,-100,3,99], k = 2
+<strong>Output:</strong> [3,99,-1,-100]
+<strong>Explanation:</strong> 
+rotate 1 steps to the right: [99,-1,-100,3]
+rotate 2 steps to the right: [3,99,-1,-100]
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>
+	<li><code>0 &lt;= k &lt;= 10<sup>5</sup></code></li>
+</ul>
+
+<p>&nbsp;</p>
+<p><strong>Follow up:</strong></p>
+
+<ul>
+	<li>Try to come up with as many solutions as you can. There are at least <strong>three</strong> different ways to solve this problem.</li>
+	<li>Could you do it in-place with <code>O(1)</code> extra space?</li>
+</ul>
+
+## Performance
+
+Time: 0 ms (100.00%), Space: 61.5 MB (99.99%) - SolveLog
 
 | | |
 |---|---|
 | **Platform** | Leetcode |
-| **Difficulty** | Medium |
 | **Language** | `java` |
 | **Runtime** | 0 ms |
+| **Runtime beats** | 100.00% |
 | **Memory** | 61.5 MB |
+| **Memory beats** | 99.99% |
 | **Topic** | `array` |
-| **Link** | https://leetcode.com/problems/rotate-array/ |
 
 ## Solution
 
@@ -20,4 +62,4 @@ See `solution.java` in this folder.
 
 ---
 
-*Committed from your browser. SolveLog never stores your code or GitHub token on its servers.*
+*Synced by [SolveLog](https://solve-log.vercel.app) (LeetHub-style). Code and GitHub token stay in your browser.*

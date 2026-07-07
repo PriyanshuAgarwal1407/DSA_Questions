@@ -61,25 +61,25 @@
       },
       "lastSubmissionRef": "leetcode:2182225537"
     },
-    "leetcode:1": {
-      "problemKey": "leetcode:1",
+    "leetcode:189": {
+      "problemKey": "leetcode:189",
       "platform": "leetcode",
-      "externalId": "1",
-      "title": "Two Sum",
-      "slug": "two-sum",
-      "difficulty": "Easy",
+      "externalId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "difficulty": "Medium",
       "primaryTopicPath": "array",
       "files": [
-        "topics/array/two-sum/solution.java",
-        "topics/array/two-sum/README.md"
+        "topics/array/rotate-array/solution.java",
+        "topics/array/rotate-array/README.md"
       ],
-      "submissionRef": "leetcode:2059599141",
-      "updatedAt": "2026-11-11T12:28:28.632Z",
+      "submissionRef": "leetcode:2059661973",
+      "updatedAt": "2026-11-11T12:28:34.825Z",
       "fileShas": {
-        "topics/array/two-sum/solution.java": "5d504a1287ea16d827f8a2dba506c9ed75d485a3",
-        "topics/array/two-sum/README.md": "c5a47706a0f1fce5ce02ef78d9399b054caf5691"
+        "topics/array/rotate-array/solution.java": "6005f085b94e000e4c8b213831a5953a22064147",
+        "topics/array/rotate-array/README.md": "0a9e4f37e57655e48d6cae28f7b9a3205470d930"
       },
-      "lastSubmissionRef": "leetcode:2059599141"
+      "lastSubmissionRef": "leetcode:2059661973"
     }
   },
   "topics": {}
