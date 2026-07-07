@@ -140,6 +140,26 @@
         "topics/math/sqrtx/README.md": "47efb8490749b056de9ab95900344482895e4cc7"
       },
       "lastSubmissionRef": "leetcode:2179739932"
+    },
+    "leetcode:1": {
+      "problemKey": "leetcode:1",
+      "platform": "leetcode",
+      "externalId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "primaryTopicPath": "array",
+      "files": [
+        "topics/array/two-sum/solution.java",
+        "topics/array/two-sum/README.md"
+      ],
+      "submissionRef": "leetcode:2059599141",
+      "updatedAt": "2026-11-11T12:40:21.623Z",
+      "fileShas": {
+        "topics/array/two-sum/solution.java": "5d504a1287ea16d827f8a2dba506c9ed75d485a3",
+        "topics/array/two-sum/README.md": "c5a47706a0f1fce5ce02ef78d9399b054caf5691"
+      },
+      "lastSubmissionRef": "leetcode:2059599141"
     }
   },
   "topics": {}
