@@ -101,25 +101,25 @@
       },
       "lastSubmissionRef": "leetcode:2179804981"
     },
-    "leetcode:383": {
-      "problemKey": "leetcode:383",
+    "leetcode:1": {
+      "problemKey": "leetcode:1",
       "platform": "leetcode",
-      "externalId": "383",
-      "title": "Ransom Note",
-      "slug": "ransom-note",
+      "externalId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
       "difficulty": "Easy",
-      "primaryTopicPath": "hash-table",
+      "primaryTopicPath": "array",
       "files": [
-        "topics/hash-table/ransom-note/solution.java",
-        "topics/hash-table/ransom-note/README.md"
+        "topics/array/two-sum/solution.java",
+        "topics/array/two-sum/README.md"
       ],
-      "submissionRef": "leetcode:1808301476",
-      "updatedAt": "2026-11-11T12:33:16.426Z",
+      "submissionRef": "leetcode:2059599141",
+      "updatedAt": "2026-11-11T12:33:23.368Z",
       "fileShas": {
-        "topics/hash-table/ransom-note/solution.java": "6452b02b0e0ad71f8ded4779b22ed18a9eadc222",
-        "topics/hash-table/ransom-note/README.md": "bc83b3e58d15f06bd88f4cf5900042fcc6f774e1"
+        "topics/array/two-sum/solution.java": "5d504a1287ea16d827f8a2dba506c9ed75d485a3",
+        "topics/array/two-sum/README.md": "c5a47706a0f1fce5ce02ef78d9399b054caf5691"
       },
-      "lastSubmissionRef": "leetcode:1808301476"
+      "lastSubmissionRef": "leetcode:2059599141"
     }
   },
   "topics": {}
