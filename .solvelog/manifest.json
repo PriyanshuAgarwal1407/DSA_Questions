@@ -61,25 +61,25 @@
       },
       "lastSubmissionRef": "leetcode:2182225537"
     },
-    "leetcode:189": {
-      "problemKey": "leetcode:189",
+    "leetcode:268": {
+      "problemKey": "leetcode:268",
       "platform": "leetcode",
-      "externalId": "189",
-      "title": "Rotate Array",
-      "slug": "rotate-array",
-      "difficulty": "Medium",
+      "externalId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "difficulty": "Easy",
       "primaryTopicPath": "array",
       "files": [
-        "topics/array/rotate-array/solution.java",
-        "topics/array/rotate-array/README.md"
+        "topics/array/missing-number/solution.java",
+        "topics/array/missing-number/README.md"
       ],
-      "submissionRef": "leetcode:2059661973",
-      "updatedAt": "2026-11-11T12:28:34.825Z",
+      "submissionRef": "leetcode:2060410279",
+      "updatedAt": "2026-11-11T12:28:41.610Z",
       "fileShas": {
-        "topics/array/rotate-array/solution.java": "6005f085b94e000e4c8b213831a5953a22064147",
-        "topics/array/rotate-array/README.md": "0a9e4f37e57655e48d6cae28f7b9a3205470d930"
+        "topics/array/missing-number/solution.java": "0e7975838edbbc2a05b6ffa195a7c3f8915f2910",
+        "topics/array/missing-number/README.md": "5a8f6c00af0279e99259fcf12cb54946d3cf7416"
       },
-      "lastSubmissionRef": "leetcode:2059661973"
+      "lastSubmissionRef": "leetcode:2060410279"
     }
   },
   "topics": {}
