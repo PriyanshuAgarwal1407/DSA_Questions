@@ -141,25 +141,25 @@
       },
       "lastSubmissionRef": "leetcode:2179739932"
     },
-    "leetcode:1": {
-      "problemKey": "leetcode:1",
+    "leetcode:9": {
+      "problemKey": "leetcode:9",
       "platform": "leetcode",
-      "externalId": "1",
-      "title": "Two Sum",
-      "slug": "two-sum",
+      "externalId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
       "difficulty": "Easy",
-      "primaryTopicPath": "array",
+      "primaryTopicPath": "math",
       "files": [
-        "topics/array/two-sum/solution.java",
-        "topics/array/two-sum/README.md"
+        "topics/math/palindrome-number/solution.java",
+        "topics/math/palindrome-number/README.md"
       ],
-      "submissionRef": "leetcode:2059599141",
-      "updatedAt": "2026-11-11T12:40:21.623Z",
+      "submissionRef": "leetcode:2061949053",
+      "updatedAt": "2026-11-11T12:40:29.411Z",
       "fileShas": {
-        "topics/array/two-sum/solution.java": "5d504a1287ea16d827f8a2dba506c9ed75d485a3",
-        "topics/array/two-sum/README.md": "c5a47706a0f1fce5ce02ef78d9399b054caf5691"
+        "topics/math/palindrome-number/solution.java": "42ef5bcf60c13d315c5178b9cd8eca804026c303",
+        "topics/math/palindrome-number/README.md": "521af914e6272c137849e476d1bb6cd8ff69fe16"
       },
-      "lastSubmissionRef": "leetcode:2059599141"
+      "lastSubmissionRef": "leetcode:2061949053"
     }
   },
   "topics": {}

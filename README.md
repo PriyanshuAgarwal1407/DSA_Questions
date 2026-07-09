@@ -9,7 +9,6 @@ Solutions synced by [SolveLog](https://solve-log.vercel.app) (LeetHub-style).
 
 | Problem |
 | --- |
-| [1. Two Sum](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/two-sum) |
 | [66. Plus One](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/plus-one) |
 | [167. Two Sum II - Input Array Is Sorted](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/two-sum-ii-input-array-is-sorted) |
 | [540. Single Element in a Sorted Array](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/single-element-in-a-sorted-array) |
@@ -19,6 +18,7 @@ Solutions synced by [SolveLog](https://solve-log.vercel.app) (LeetHub-style).
 
 | Problem |
 | --- |
+| [9. Palindrome Number](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/math/palindrome-number) |
 | [69. Sqrt(x)](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/math/sqrtx) |
 | [412. Fizz Buzz](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/math/fizz-buzz) |
 | [441. Arranging Coins](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/math/arranging-coins) |
