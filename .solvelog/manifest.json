@@ -21,25 +21,25 @@
       },
       "lastSubmissionRef": "leetcode:1808249673"
     },
-    "leetcode:268": {
-      "problemKey": "leetcode:268",
+    "leetcode:9": {
+      "problemKey": "leetcode:9",
       "platform": "leetcode",
-      "externalId": "268",
-      "title": "Missing Number",
-      "slug": "missing-number",
+      "externalId": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
       "difficulty": "Easy",
-      "primaryTopicPath": "array",
+      "primaryTopicPath": "math",
       "files": [
-        "topics/array/missing-number/solution.java",
-        "topics/array/missing-number/README.md"
+        "topics/math/palindrome-number/solution.java",
+        "topics/math/palindrome-number/README.md"
       ],
-      "submissionRef": "leetcode:2060410279",
-      "updatedAt": "2026-11-11T12:21:16.016Z",
+      "submissionRef": "leetcode:2061949053",
+      "updatedAt": "2026-11-11T12:21:22.032Z",
       "fileShas": {
-        "topics/array/missing-number/solution.java": "0e7975838edbbc2a05b6ffa195a7c3f8915f2910",
-        "topics/array/missing-number/README.md": "e17bedbced04c23e5e265cee5189581cd8eb4633"
+        "topics/math/palindrome-number/solution.java": "42ef5bcf60c13d315c5178b9cd8eca804026c303",
+        "topics/math/palindrome-number/README.md": "129a504e5fd38eca6f68ed26e353849fdf3f26d8"
       },
-      "lastSubmissionRef": "leetcode:2060410279"
+      "lastSubmissionRef": "leetcode:2061949053"
     }
   },
   "topics": {}
