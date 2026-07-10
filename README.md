@@ -11,7 +11,7 @@ Solutions synced by [SolveLog](https://solve-log.vercel.app) (LeetHub-style).
 | --- |
 | [66. Plus One](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/plus-one) |
 | [167. Two Sum II - Input Array Is Sorted](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/two-sum-ii-input-array-is-sorted) |
-| [268. Missing Number](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/missing-number) |
+| [283. Move Zeroes](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/move-zeroes) |
 | [540. Single Element in a Sorted Array](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/single-element-in-a-sorted-array) |
 | [1791. Richest Customer Wealth](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/richest-customer-wealth) |
 

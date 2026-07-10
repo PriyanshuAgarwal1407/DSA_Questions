@@ -141,25 +141,25 @@
       },
       "lastSubmissionRef": "leetcode:2179739932"
     },
-    "leetcode:268": {
-      "problemKey": "leetcode:268",
+    "leetcode:283": {
+      "problemKey": "leetcode:283",
       "platform": "leetcode",
-      "externalId": "268",
-      "title": "Missing Number",
-      "slug": "missing-number",
+      "externalId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
       "difficulty": "Easy",
       "primaryTopicPath": "array",
       "files": [
-        "topics/array/missing-number/solution.java",
-        "topics/array/missing-number/README.md"
+        "topics/array/move-zeroes/solution.java",
+        "topics/array/move-zeroes/README.md"
       ],
-      "submissionRef": "leetcode:2060410279",
-      "updatedAt": "2026-11-11T12:40:53.410Z",
+      "submissionRef": "leetcode:2062833806",
+      "updatedAt": "2026-11-11T12:41:00.590Z",
       "fileShas": {
-        "topics/array/missing-number/solution.java": "0e7975838edbbc2a05b6ffa195a7c3f8915f2910",
-        "topics/array/missing-number/README.md": "5a8f6c00af0279e99259fcf12cb54946d3cf7416"
+        "topics/array/move-zeroes/solution.java": "44cad92284c2b965ba69d79dbcc837d446ef4a82",
+        "topics/array/move-zeroes/README.md": "56aa33cfa0bd19a93a86dbbfeeb88e2b8aa2efcc"
       },
-      "lastSubmissionRef": "leetcode:2060410279"
+      "lastSubmissionRef": "leetcode:2062833806"
     }
   },
   "topics": {}
