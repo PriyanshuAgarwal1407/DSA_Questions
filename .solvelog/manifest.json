@@ -21,25 +21,25 @@
       },
       "lastSubmissionRef": "leetcode:1808249673"
     },
-    "leetcode:9": {
-      "problemKey": "leetcode:9",
+    "leetcode:283": {
+      "problemKey": "leetcode:283",
       "platform": "leetcode",
-      "externalId": "9",
-      "title": "Palindrome Number",
-      "slug": "palindrome-number",
+      "externalId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
       "difficulty": "Easy",
-      "primaryTopicPath": "math",
+      "primaryTopicPath": "array",
       "files": [
-        "topics/math/palindrome-number/solution.java",
-        "topics/math/palindrome-number/README.md"
+        "topics/array/move-zeroes/solution.java",
+        "topics/array/move-zeroes/README.md"
       ],
-      "submissionRef": "leetcode:2061949053",
-      "updatedAt": "2026-11-11T12:21:22.032Z",
+      "submissionRef": "leetcode:2062833806",
+      "updatedAt": "2026-11-11T12:21:28.573Z",
       "fileShas": {
-        "topics/math/palindrome-number/solution.java": "42ef5bcf60c13d315c5178b9cd8eca804026c303",
-        "topics/math/palindrome-number/README.md": "129a504e5fd38eca6f68ed26e353849fdf3f26d8"
+        "topics/array/move-zeroes/solution.java": "44cad92284c2b965ba69d79dbcc837d446ef4a82",
+        "topics/array/move-zeroes/README.md": "a7025299c46a5c7dc9f5d888d7a06c4494e44963"
       },
-      "lastSubmissionRef": "leetcode:2061949053"
+      "lastSubmissionRef": "leetcode:2062833806"
     }
   },
   "topics": {}
