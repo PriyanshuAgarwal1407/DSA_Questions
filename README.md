@@ -22,6 +22,5 @@ Solutions synced by [SolveLog](https://solve-log.vercel.app) (LeetHub-style).
 | [69. Sqrt(x)](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/math/sqrtx) |
 | [412. Fizz Buzz](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/math/fizz-buzz) |
 | [441. Arranging Coins](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/math/arranging-coins) |
-| [1342. Number of Steps to Reduce a Number to Zero](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/math/number-of-steps-to-reduce-a-number-to-zero) |
 
 <!---SolveLog Topics End-->
