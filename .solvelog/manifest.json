@@ -101,25 +101,25 @@
       },
       "lastSubmissionRef": "leetcode:2179804981"
     },
-    "leetcode:283": {
-      "problemKey": "leetcode:283",
+    "leetcode:1791": {
+      "problemKey": "leetcode:1791",
       "platform": "leetcode",
-      "externalId": "283",
-      "title": "Move Zeroes",
-      "slug": "move-zeroes",
+      "externalId": "1791",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
       "difficulty": "Easy",
       "primaryTopicPath": "array",
       "files": [
-        "topics/array/move-zeroes/solution.java",
-        "topics/array/move-zeroes/README.md"
+        "topics/array/richest-customer-wealth/solution.java",
+        "topics/array/richest-customer-wealth/README.md"
       ],
-      "submissionRef": "leetcode:2062833806",
-      "updatedAt": "2026-11-11T12:33:51.748Z",
+      "submissionRef": "leetcode:2066532080",
+      "updatedAt": "2026-11-11T12:33:58.839Z",
       "fileShas": {
-        "topics/array/move-zeroes/solution.java": "44cad92284c2b965ba69d79dbcc837d446ef4a82",
-        "topics/array/move-zeroes/README.md": "56aa33cfa0bd19a93a86dbbfeeb88e2b8aa2efcc"
+        "topics/array/richest-customer-wealth/solution.java": "3e8b99f19501d50036414a66cea2f66e12935cd7",
+        "topics/array/richest-customer-wealth/README.md": "8b631d794ad7545aaefd3075c6c246fc643f9a60"
       },
-      "lastSubmissionRef": "leetcode:2062833806"
+      "lastSubmissionRef": "leetcode:2066532080"
     }
   },
   "topics": {}
