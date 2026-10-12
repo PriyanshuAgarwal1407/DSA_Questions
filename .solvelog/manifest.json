@@ -61,25 +61,25 @@
       },
       "lastSubmissionRef": "leetcode:2182225537"
     },
-    "leetcode:1791": {
-      "problemKey": "leetcode:1791",
+    "leetcode:167": {
+      "problemKey": "leetcode:167",
       "platform": "leetcode",
-      "externalId": "1791",
-      "title": "Richest Customer Wealth",
-      "slug": "richest-customer-wealth",
-      "difficulty": "Easy",
+      "externalId": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
       "primaryTopicPath": "array",
       "files": [
-        "topics/array/richest-customer-wealth/solution.java",
-        "topics/array/richest-customer-wealth/README.md"
+        "topics/array/two-sum-ii-input-array-is-sorted/solution.java",
+        "topics/array/two-sum-ii-input-array-is-sorted/README.md"
       ],
-      "submissionRef": "leetcode:2066532080",
-      "updatedAt": "2026-11-11T12:29:00.235Z",
+      "submissionRef": "leetcode:2170262579",
+      "updatedAt": "2026-11-11T12:29:06.502Z",
       "fileShas": {
-        "topics/array/richest-customer-wealth/solution.java": "3e8b99f19501d50036414a66cea2f66e12935cd7",
-        "topics/array/richest-customer-wealth/README.md": "8b631d794ad7545aaefd3075c6c246fc643f9a60"
+        "topics/array/two-sum-ii-input-array-is-sorted/solution.java": "c3cd2e8c1771ba42c9ff9ade6fffd99fb608926d",
+        "topics/array/two-sum-ii-input-array-is-sorted/README.md": "f55b8927681ef9ecfe9de19e80f34072873c0121"
       },
-      "lastSubmissionRef": "leetcode:2066532080"
+      "lastSubmissionRef": "leetcode:2170262579"
     }
   },
   "topics": {}
