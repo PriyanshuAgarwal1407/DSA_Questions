@@ -21,25 +21,25 @@
       },
       "lastSubmissionRef": "leetcode:1808249673"
     },
-    "leetcode:167": {
-      "problemKey": "leetcode:167",
+    "leetcode:66": {
+      "problemKey": "leetcode:66",
       "platform": "leetcode",
-      "externalId": "167",
-      "title": "Two Sum II - Input Array Is Sorted",
-      "slug": "two-sum-ii-input-array-is-sorted",
-      "difficulty": "Medium",
+      "externalId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "difficulty": "Easy",
       "primaryTopicPath": "array",
       "files": [
-        "topics/array/two-sum-ii-input-array-is-sorted/solution.java",
-        "topics/array/two-sum-ii-input-array-is-sorted/README.md"
+        "topics/array/plus-one/solution.java",
+        "topics/array/plus-one/README.md"
       ],
-      "submissionRef": "leetcode:2170262579",
-      "updatedAt": "2026-11-11T12:21:44.054Z",
+      "submissionRef": "leetcode:2171392881",
+      "updatedAt": "2026-11-11T12:21:50.599Z",
       "fileShas": {
-        "topics/array/two-sum-ii-input-array-is-sorted/solution.java": "c3cd2e8c1771ba42c9ff9ade6fffd99fb608926d",
-        "topics/array/two-sum-ii-input-array-is-sorted/README.md": "54d7ec770e6bec083b19438c070177000eb4f4e5"
+        "topics/array/plus-one/solution.java": "774b25d927a138f31b167d1c377629126b721714",
+        "topics/array/plus-one/README.md": "07c214d17d0b69fcd3fff72b424e0c45383ea874"
       },
-      "lastSubmissionRef": "leetcode:2170262579"
+      "lastSubmissionRef": "leetcode:2171392881"
     }
   },
   "topics": {}
