@@ -141,25 +141,25 @@
       },
       "lastSubmissionRef": "leetcode:2179739932"
     },
-    "leetcode:383": {
-      "problemKey": "leetcode:383",
+    "leetcode:704": {
+      "problemKey": "leetcode:704",
       "platform": "leetcode",
-      "externalId": "383",
-      "title": "Ransom Note",
-      "slug": "ransom-note",
+      "externalId": "704",
+      "title": "Binary Search",
+      "slug": "binary-search",
       "difficulty": "Easy",
-      "primaryTopicPath": "hash-table",
+      "primaryTopicPath": "array",
       "files": [
-        "topics/hash-table/ransom-note/solution.java",
-        "topics/hash-table/ransom-note/README.md"
+        "topics/array/binary-search/solution.java",
+        "topics/array/binary-search/README.md"
       ],
-      "submissionRef": "leetcode:1808301476",
-      "updatedAt": "2026-11-11T12:41:07.454Z",
+      "submissionRef": "leetcode:2178874478",
+      "updatedAt": "2026-11-11T12:41:17.935Z",
       "fileShas": {
-        "topics/hash-table/ransom-note/solution.java": "6452b02b0e0ad71f8ded4779b22ed18a9eadc222",
-        "topics/hash-table/ransom-note/README.md": "bc83b3e58d15f06bd88f4cf5900042fcc6f774e1"
+        "topics/array/binary-search/solution.java": "719d1a2416965c7db8bb59fad327973e8fbe2bc6",
+        "topics/array/binary-search/README.md": "6bc74d96bc145abc99a8cd98ad527faa2e7a710e"
       },
-      "lastSubmissionRef": "leetcode:1808301476"
+      "lastSubmissionRef": "leetcode:2178874478"
     }
   },
   "topics": {}
