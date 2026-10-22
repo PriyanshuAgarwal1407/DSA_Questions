@@ -141,25 +141,25 @@
       },
       "lastSubmissionRef": "leetcode:2179739932"
     },
-    "leetcode:9": {
-      "problemKey": "leetcode:9",
+    "leetcode:34": {
+      "problemKey": "leetcode:34",
       "platform": "leetcode",
-      "externalId": "9",
-      "title": "Palindrome Number",
-      "slug": "palindrome-number",
-      "difficulty": "Easy",
-      "primaryTopicPath": "math",
+      "externalId": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
+      "primaryTopicPath": "array",
       "files": [
-        "topics/math/palindrome-number/solution.java",
-        "topics/math/palindrome-number/README.md"
+        "topics/array/find-first-and-last-position-of-element-in-sorted-array/solution.java",
+        "topics/array/find-first-and-last-position-of-element-in-sorted-array/README.md"
       ],
-      "submissionRef": "leetcode:2061949053",
-      "updatedAt": "2026-11-11T12:40:29.411Z",
+      "submissionRef": "leetcode:2178892496",
+      "updatedAt": "2026-11-11T12:40:36.186Z",
       "fileShas": {
-        "topics/math/palindrome-number/solution.java": "42ef5bcf60c13d315c5178b9cd8eca804026c303",
-        "topics/math/palindrome-number/README.md": "521af914e6272c137849e476d1bb6cd8ff69fe16"
+        "topics/array/find-first-and-last-position-of-element-in-sorted-array/solution.java": "9be6d7ba70168ceaafa360cb614de701fe310b11",
+        "topics/array/find-first-and-last-position-of-element-in-sorted-array/README.md": "96635f689249d2bbfb6239424ee20acc34c56bca"
       },
-      "lastSubmissionRef": "leetcode:2061949053"
+      "lastSubmissionRef": "leetcode:2178892496"
     }
   },
   "topics": {}
