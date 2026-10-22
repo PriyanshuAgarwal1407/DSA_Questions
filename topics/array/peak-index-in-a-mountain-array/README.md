@@ -1,18 +1,59 @@
-# [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+<h2><a href="https://leetcode.com/problems/peak-index-in-a-mountain-array/">882. Peak Index in a Mountain Array</a></h2>
+<h3>Medium</h3>
+<hr>
+<p>You are given an integer <strong>mountain</strong> array <code>arr</code> of length <code>n</code> where the values increase to a <strong>peak element</strong> and then decrease.</p>
 
-> Auto-synced by [SolveLog](https://github.com/savinyu/SolveLog) · LeetHub-style solution archive
+<p>Return the index of the peak element.</p>
 
-## Problem
+<p>Your task is to solve it in <code>O(log(n))</code> time complexity.</p>
+
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">arr = [0,1,0]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">1</span></p>
+</div>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">arr = [0,2,1,0]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">1</span></p>
+</div>
+
+<p><strong class="example">Example 3:</strong></p>
+
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">arr = [0,10,5,2]</span></p>
+
+<p><strong>Output:</strong> <span class="example-io">1</span></p>
+</div>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>3 &lt;= arr.length &lt;= 10<sup>5</sup></code></li>
+	<li><code>0 &lt;= arr[i] &lt;= 10<sup>6</sup></code></li>
+	<li><code>arr</code> is <strong>guaranteed</strong> to be a mountain array.</li>
+</ul>
+
+## Performance
+
+Time: 0 ms (100.00%), Space: 79.4 MB (98.61%) - SolveLog
 
 | | |
 |---|---|
 | **Platform** | Leetcode |
-| **Difficulty** | Medium |
 | **Language** | `java` |
 | **Runtime** | 0 ms |
+| **Runtime beats** | 100.00% |
 | **Memory** | 79.4 MB |
+| **Memory beats** | 98.61% |
 | **Topic** | `array` |
-| **Link** | https://leetcode.com/problems/peak-index-in-a-mountain-array/ |
 
 ## Solution
 
@@ -20,4 +61,4 @@ See `solution.java` in this folder.
 
 ---
 
-*Committed from your browser. SolveLog never stores your code or GitHub token on its servers.*
+*Synced by [SolveLog](https://solve-log.vercel.app) (LeetHub-style). Code and GitHub token stay in your browser.*
