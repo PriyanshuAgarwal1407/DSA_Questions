@@ -121,25 +121,25 @@
       },
       "lastSubmissionRef": "leetcode:2066532080"
     },
-    "leetcode:34": {
-      "problemKey": "leetcode:34",
+    "leetcode:882": {
+      "problemKey": "leetcode:882",
       "platform": "leetcode",
-      "externalId": "34",
-      "title": "Find First and Last Position of Element in Sorted Array",
-      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "externalId": "882",
+      "title": "Peak Index in a Mountain Array",
+      "slug": "peak-index-in-a-mountain-array",
       "difficulty": "Medium",
       "primaryTopicPath": "array",
       "files": [
-        "topics/array/find-first-and-last-position-of-element-in-sorted-array/solution.java",
-        "topics/array/find-first-and-last-position-of-element-in-sorted-array/README.md"
+        "topics/array/peak-index-in-a-mountain-array/solution.java",
+        "topics/array/peak-index-in-a-mountain-array/README.md"
       ],
-      "submissionRef": "leetcode:2178892496",
-      "updatedAt": "2026-11-11T12:34:16.279Z",
+      "submissionRef": "leetcode:2179021721",
+      "updatedAt": "2026-11-11T12:34:22.957Z",
       "fileShas": {
-        "topics/array/find-first-and-last-position-of-element-in-sorted-array/solution.java": "9be6d7ba70168ceaafa360cb614de701fe310b11",
-        "topics/array/find-first-and-last-position-of-element-in-sorted-array/README.md": "96635f689249d2bbfb6239424ee20acc34c56bca"
+        "topics/array/peak-index-in-a-mountain-array/solution.java": "01794eb00b70f9a2fb97ec7772cf3e39ccf11f45",
+        "topics/array/peak-index-in-a-mountain-array/README.md": "2c1f89122fac2f8e35a0f967ad29379da3ad0666"
       },
-      "lastSubmissionRef": "leetcode:2178892496"
+      "lastSubmissionRef": "leetcode:2179021721"
     }
   },
   "topics": {}
