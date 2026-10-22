@@ -81,25 +81,25 @@
       },
       "lastSubmissionRef": "leetcode:2170262579"
     },
-    "leetcode:792": {
-      "problemKey": "leetcode:792",
+    "leetcode:34": {
+      "problemKey": "leetcode:34",
       "platform": "leetcode",
-      "externalId": "792",
-      "title": "Binary Search",
-      "slug": "binary-search",
-      "difficulty": "Easy",
+      "externalId": "34",
+      "title": "Find First and Last Position of Element in Sorted Array",
+      "slug": "find-first-and-last-position-of-element-in-sorted-array",
+      "difficulty": "Medium",
       "primaryTopicPath": "array",
       "files": [
-        "topics/array/binary-search/solution.java",
-        "topics/array/binary-search/README.md"
+        "topics/array/find-first-and-last-position-of-element-in-sorted-array/solution.java",
+        "topics/array/find-first-and-last-position-of-element-in-sorted-array/README.md"
       ],
-      "submissionRef": "leetcode:2178874478",
-      "updatedAt": "2026-11-11T12:29:14.407Z",
+      "submissionRef": "leetcode:2178892496",
+      "updatedAt": "2026-11-11T12:29:21.324Z",
       "fileShas": {
-        "topics/array/binary-search/solution.java": "719d1a2416965c7db8bb59fad327973e8fbe2bc6",
-        "topics/array/binary-search/README.md": "34f753d885a69a3538708a0b48722535cc07b4ae"
+        "topics/array/find-first-and-last-position-of-element-in-sorted-array/solution.java": "9be6d7ba70168ceaafa360cb614de701fe310b11",
+        "topics/array/find-first-and-last-position-of-element-in-sorted-array/README.md": "96635f689249d2bbfb6239424ee20acc34c56bca"
       },
-      "lastSubmissionRef": "leetcode:2178874478"
+      "lastSubmissionRef": "leetcode:2178892496"
     }
   },
   "topics": {}
