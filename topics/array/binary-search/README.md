@@ -1,18 +1,50 @@
-# [Binary Search](https://leetcode.com/problems/binary-search/)
+<h2><a href="https://leetcode.com/problems/binary-search/">792. Binary Search</a></h2>
+<h3>Easy</h3>
+<hr>
+<p>Given an array of integers <code>nums</code> which is sorted in ascending order, and an integer <code>target</code>, write a function to search <code>target</code> in <code>nums</code>. If <code>target</code> exists, then return its index. Otherwise, return <code>-1</code>.</p>
 
-> Auto-synced by [SolveLog](https://github.com/savinyu/SolveLog) · LeetHub-style solution archive
+<p>You must write an algorithm with <code>O(log n)</code> runtime complexity.</p>
 
-## Problem
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [-1,0,3,5,9,12], target = 9
+<strong>Output:</strong> 4
+<strong>Explanation:</strong> 9 exists in nums and its index is 4
+</pre>
+
+<p><strong class="example">Example 2:</strong></p>
+
+<pre>
+<strong>Input:</strong> nums = [-1,0,3,5,9,12], target = 2
+<strong>Output:</strong> -1
+<strong>Explanation:</strong> 2 does not exist in nums so return -1
+</pre>
+
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
+
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 10<sup>4</sup></code></li>
+	<li><code>-10<sup>4</sup> &lt; nums[i], target &lt; 10<sup>4</sup></code></li>
+	<li>All the integers in <code>nums</code> are <strong>unique</strong>.</li>
+	<li><code>nums</code> is sorted in ascending order.</li>
+</ul>
+
+## Performance
+
+Time: 0 ms (100.00%), Space: 47.9 MB (73.98%) - SolveLog
 
 | | |
 |---|---|
 | **Platform** | Leetcode |
-| **Difficulty** | Easy |
 | **Language** | `java` |
 | **Runtime** | 0 ms |
+| **Runtime beats** | 100.00% |
 | **Memory** | 47.9 MB |
+| **Memory beats** | 73.98% |
 | **Topic** | `array` |
-| **Link** | https://leetcode.com/problems/binary-search/ |
 
 ## Solution
 
@@ -20,4 +52,4 @@ See `solution.java` in this folder.
 
 ---
 
-*Committed from your browser. SolveLog never stores your code or GitHub token on its servers.*
+*Synced by [SolveLog](https://solve-log.vercel.app) (LeetHub-style). Code and GitHub token stay in your browser.*

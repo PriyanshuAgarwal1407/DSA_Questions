@@ -80,6 +80,26 @@
         "topics/array/two-sum-ii-input-array-is-sorted/README.md": "f55b8927681ef9ecfe9de19e80f34072873c0121"
       },
       "lastSubmissionRef": "leetcode:2170262579"
+    },
+    "leetcode:792": {
+      "problemKey": "leetcode:792",
+      "platform": "leetcode",
+      "externalId": "792",
+      "title": "Binary Search",
+      "slug": "binary-search",
+      "difficulty": "Easy",
+      "primaryTopicPath": "array",
+      "files": [
+        "topics/array/binary-search/solution.java",
+        "topics/array/binary-search/README.md"
+      ],
+      "submissionRef": "leetcode:2178874478",
+      "updatedAt": "2026-11-11T12:29:14.407Z",
+      "fileShas": {
+        "topics/array/binary-search/solution.java": "719d1a2416965c7db8bb59fad327973e8fbe2bc6",
+        "topics/array/binary-search/README.md": "34f753d885a69a3538708a0b48722535cc07b4ae"
+      },
+      "lastSubmissionRef": "leetcode:2178874478"
     }
   },
   "topics": {}
