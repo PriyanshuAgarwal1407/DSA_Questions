@@ -160,6 +160,26 @@
         "topics/array/binary-search/README.md": "6bc74d96bc145abc99a8cd98ad527faa2e7a710e"
       },
       "lastSubmissionRef": "leetcode:2178874478"
+    },
+    "leetcode:852": {
+      "problemKey": "leetcode:852",
+      "platform": "leetcode",
+      "externalId": "852",
+      "title": "Peak Index in a Mountain Array",
+      "slug": "peak-index-in-a-mountain-array",
+      "difficulty": "Medium",
+      "primaryTopicPath": "array",
+      "files": [
+        "topics/array/peak-index-in-a-mountain-array/solution.java",
+        "topics/array/peak-index-in-a-mountain-array/README.md"
+      ],
+      "submissionRef": "leetcode:2179021721",
+      "updatedAt": "2026-11-11T12:41:28.162Z",
+      "fileShas": {
+        "topics/array/peak-index-in-a-mountain-array/solution.java": "01794eb00b70f9a2fb97ec7772cf3e39ccf11f45",
+        "topics/array/peak-index-in-a-mountain-array/README.md": "daf9fda1b9120c9f8ce1bcfa50ef8f3ae9220aa5"
+      },
+      "lastSubmissionRef": "leetcode:2179021721"
     }
   },
   "topics": {}
