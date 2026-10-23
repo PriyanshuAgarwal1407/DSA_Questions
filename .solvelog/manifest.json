@@ -81,25 +81,25 @@
       },
       "lastSubmissionRef": "leetcode:2170262579"
     },
-    "leetcode:69": {
-      "problemKey": "leetcode:69",
+    "leetcode:540": {
+      "problemKey": "leetcode:540",
       "platform": "leetcode",
-      "externalId": "69",
-      "title": "Sqrt(x)",
-      "slug": "sqrtx",
-      "difficulty": "Easy",
-      "primaryTopicPath": "math",
+      "externalId": "540",
+      "title": "Single Element in a Sorted Array",
+      "slug": "single-element-in-a-sorted-array",
+      "difficulty": "Medium",
+      "primaryTopicPath": "array",
       "files": [
-        "topics/math/sqrtx/solution.java",
-        "topics/math/sqrtx/README.md"
+        "topics/array/single-element-in-a-sorted-array/solution.java",
+        "topics/array/single-element-in-a-sorted-array/README.md"
       ],
-      "submissionRef": "leetcode:2179739932",
-      "updatedAt": "2026-11-11T12:29:46.904Z",
+      "submissionRef": "leetcode:2179804981",
+      "updatedAt": "2026-11-11T12:30:02.366Z",
       "fileShas": {
-        "topics/math/sqrtx/solution.java": "76b6201701148133577aa37b92c0cc987d9f50c1",
-        "topics/math/sqrtx/README.md": "47efb8490749b056de9ab95900344482895e4cc7"
+        "topics/array/single-element-in-a-sorted-array/solution.java": "7157645c3dcce07b3428274ebf67fa227d8254d4",
+        "topics/array/single-element-in-a-sorted-array/README.md": "290912a6cea421674f8c815348a3d957bca70db3"
       },
-      "lastSubmissionRef": "leetcode:2179739932"
+      "lastSubmissionRef": "leetcode:2179804981"
     }
   },
   "topics": {}
