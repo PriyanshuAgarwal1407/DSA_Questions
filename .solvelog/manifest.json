@@ -41,25 +41,25 @@
       },
       "lastSubmissionRef": "leetcode:2171392881"
     },
-    "leetcode:882": {
-      "problemKey": "leetcode:882",
+    "leetcode:2614": {
+      "problemKey": "leetcode:2614",
       "platform": "leetcode",
-      "externalId": "882",
-      "title": "Peak Index in a Mountain Array",
-      "slug": "peak-index-in-a-mountain-array",
-      "difficulty": "Medium",
+      "externalId": "2614",
+      "title": "Maximum Count of Positive Integer and Negative Integer",
+      "slug": "maximum-count-of-positive-integer-and-negative-integer",
+      "difficulty": "Easy",
       "primaryTopicPath": "array",
       "files": [
-        "topics/array/peak-index-in-a-mountain-array/solution.java",
-        "topics/array/peak-index-in-a-mountain-array/README.md"
+        "topics/array/maximum-count-of-positive-integer-and-negative-integer/solution.java",
+        "topics/array/maximum-count-of-positive-integer-and-negative-integer/README.md"
       ],
-      "submissionRef": "leetcode:2179021721",
-      "updatedAt": "2026-11-11T12:22:09.732Z",
+      "submissionRef": "leetcode:2179660024",
+      "updatedAt": "2026-11-11T12:22:15.778Z",
       "fileShas": {
-        "topics/array/peak-index-in-a-mountain-array/solution.java": "01794eb00b70f9a2fb97ec7772cf3e39ccf11f45",
-        "topics/array/peak-index-in-a-mountain-array/README.md": "6c3c7722ddf60a459090f1f77c42d026c53dfe48"
+        "topics/array/maximum-count-of-positive-integer-and-negative-integer/solution.java": "8bc88b7a84ba029313bdc7c823f15d0952523fea",
+        "topics/array/maximum-count-of-positive-integer-and-negative-integer/README.md": "877aae8d5083888563723e4008aa02c1468cdaf8"
       },
-      "lastSubmissionRef": "leetcode:2179021721"
+      "lastSubmissionRef": "leetcode:2179660024"
     }
   },
   "topics": {}
