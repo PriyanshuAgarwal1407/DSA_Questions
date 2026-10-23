@@ -13,12 +13,12 @@ Solutions synced by [SolveLog](https://solve-log.vercel.app) (LeetHub-style).
 | [167. Two Sum II - Input Array Is Sorted](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/two-sum-ii-input-array-is-sorted) |
 | [540. Single Element in a Sorted Array](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/single-element-in-a-sorted-array) |
 | [1791. Richest Customer Wealth](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/richest-customer-wealth) |
-| [2614. Maximum Count of Positive Integer and Negative Integer](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/maximum-count-of-positive-integer-and-negative-integer) |
 
 ## Math
 
 | Problem |
 | --- |
+| [69. Sqrt(x)](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/math/sqrtx) |
 | [412. Fizz Buzz](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/math/fizz-buzz) |
 | [441. Arranging Coins](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/math/arranging-coins) |
 
