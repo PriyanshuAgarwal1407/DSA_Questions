@@ -14,6 +14,7 @@ Solutions synced by [SolveLog](https://solve-log.vercel.app) (LeetHub-style).
 | [540. Single Element in a Sorted Array](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/single-element-in-a-sorted-array) |
 | [704. Binary Search](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/binary-search) |
 | [1791. Richest Customer Wealth](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/richest-customer-wealth) |
+| [2529. Maximum Count of Positive Integer and Negative Integer](https://github.com/PriyanshuAgarwal1407/DSA_Questions/tree/main/topics/array/maximum-count-of-positive-integer-and-negative-integer) |
 
 ## Math
 
